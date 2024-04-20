@@ -1,4 +1,4 @@
-<h1 align="center">My Projects</h1>
+$${\huge\textsf{My\ Projects}}$$
 
 <table align="center">
 	<tr>
