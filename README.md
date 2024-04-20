@@ -1,5 +1,7 @@
 $${\huge\textsf{My\ Projects}}$$
 
+<div align="center"><img src="mit.png" width="20%"></div><br>
+
 <table align="center">
 	<tr>
 		<td align="center" width="50%">
