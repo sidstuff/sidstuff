@@ -27,4 +27,5 @@ $${\huge\textsf{My\ Projects}}$$
 	<img src="flag.png"><br><br><a href="https://github.com/sidstuff/libertarianism"><b>libertarianism</b></a><br><br>Libertarianism Mega FAQ – Explanation and watertight defense of libertarianism for libertarians and non-libertarians.<br><br>
 </td></tr></table><br>
 
-<h1><a href="https://github.com/ourbigbook/ourbigbook/commits?author=sidstuff">Contributed</a> to <img src="ourbigbook.svg" height="30px"><a href="https://github.com/ourbigbook/ourbigbook">OurBigBook.com</a><img src="agpl3.svg" height="30px"></h1>
+<h1><a href="https://github.com/ourbigbook/ourbigbook/commits?author=sidstuff">Contributed</a> to <img src="ourbigbook.svg" height="25px"><a href="https://github.com/ourbigbook/ourbigbook">OurBigBook</a><img src="agpl3.svg" height="25px"></h1>
+ourbigbook.com source code + a compatible local CLI static wiki generator and markup language to write complex structured wikis/books/blogs with reference implementation in JavaScript.
