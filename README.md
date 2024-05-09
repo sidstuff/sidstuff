@@ -25,4 +25,6 @@ $${\huge\textsf{My\ Projects}}$$
 
 <table><tr><td align="center">
 	<img src="flag.png"><br><br><a href="https://github.com/sidstuff/libertarianism"><b>libertarianism</b></a><br><br>Libertarianism Mega FAQ – Explanation and watertight defense of libertarianism for libertarians and non-libertarians.<br><br>
-</td></tr></table>
+</td></tr></table><br>
+
+<a href="https://github.com/ourbigbook/ourbigbook/commits?author=sidstuff">Contributed</a> to <img src="ourbigbook.svg" height="30px"><a href="https://github.com/ourbigbook/ourbigbook">OurBigBook.com</a><img src="agpl3.svg" height="30px">
