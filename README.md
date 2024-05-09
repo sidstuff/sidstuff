@@ -2,7 +2,7 @@ $${\huge\textsf{My\ Projects}}$$
 
 <div align="center"><img src="mit.png" height="40px"></div><br>
 
-<table align="center">
+<table>
 	<tr>
 		<td align="center" width="50%">
 			<img src="orbital.png"><br><br><a href="https://github.com/sidstuff/orbital"><b>orbital</b></a><br><br>Make interactive scatterplots of atomic orbitals and animate them.<br><br>
@@ -21,8 +21,7 @@ $${\huge\textsf{My\ Projects}}$$
 	</tr>
 </table>
 
-<div align="center">
-	<img src="cc-by.png" height="40px"><br>
-	<table align="center"><tr><td><img src="flag.png"><br><br><a href="https://github.com/sidstuff/libertarianism"><b>libertarianism</b></a><br><br>Libertarianism Mega FAQ – Explanation and watertight defense of libertarianism for libertarians and non-libertarians.<br><br>
-	</td></tr></table>
-</div>
+<div align="center"><img src="cc-by.png" height="40px"></div>
+<table><tr><td align="center">
+	<img src="flag.png"><br><br><a href="https://github.com/sidstuff/libertarianism"><b>libertarianism</b></a><br><br>Libertarianism Mega FAQ – Explanation and watertight defense of libertarianism for libertarians and non-libertarians.<br><br>
+</td></tr></table>
