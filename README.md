@@ -20,3 +20,9 @@ $${\huge\textsf{My\ Projects}}$$
 		</td>
 	</tr>
 </table>
+
+<div align="center">
+	<img src="cc-by.png" height="40px"><br>
+	<table align="center"><tr><td><img src="flag.png"><br><br><a href="https://github.com/sidstuff/libertarianism"><b>libertarianism</b></a><br><br>Libertarianism Mega FAQ – Explanation and watertight defense of libertarianism for libertarians and non-libertarians.<br><br>
+	</td></tr></table>
+</div>
