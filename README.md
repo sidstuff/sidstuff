@@ -28,4 +28,4 @@ $${\huge\textsf{My\ Projects}}$$
 </td></tr></table><br>
 
 <h1><a href="https://github.com/ourbigbook/ourbigbook/commits?author=sidstuff">Contributed</a> to <img src="ourbigbook.svg" height="25px"> <a href="https://github.com/ourbigbook/ourbigbook">OurBigBook</a> <img src="agpl3.svg" height="25px"></h1>
-<a href="https://ourbigbook.com>ourbigbook.com"></a> source code + a compatible local CLI static wiki generator and markup language to write complex structured wikis/books/blogs with reference implementation in JavaScript.
+<a href="https://ourbigbook.com">ourbigbook.com</a> source code + a compatible local CLI static wiki generator and markup language to write complex structured wikis/books/blogs with reference implementation in JavaScript.
