@@ -1,2 +1,2 @@
-echo "hello $MYVAR"
+touch "yo-$MYVAR"
 exit
