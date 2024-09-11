@@ -21,10 +21,10 @@ $${\huge\textsf{My\ Projects}}$$
 	</tr>
 	<tr>
 		<td align="center" width="50%">
-			<a href="https://github.com/sidstuff/cutoffs"><img src="cutoffs.png"><br><br><b>bf-repl</b></a><br><br>Spam-resistant crowdsourcing of accurate cut-off scores.<br><br>
+			<a href="https://github.com/sidstuff/cutoffs"><img src="cutoffs.png"><br><br><b>cutoffs</b></a><br><br>Spam-resistant crowdsourcing of accurate cut-off scores.<br><br>
 		</td>
 		<td align="center" width="50%">
-			<a href="https://github.com/sidstuff/robot"><img src="robot.png"><br><br><b>learnasm</b></a><br><br>A PCB for an obstacle avoiding robot.<br><br>
+			<a href="https://github.com/sidstuff/robot"><img src="robot.png"><br><br><b>robot</b></a><br><br>A PCB for an obstacle avoiding robot.<br><br>
 		</td>
 	</tr>
 </table>
