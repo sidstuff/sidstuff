@@ -19,6 +19,14 @@ $${\huge\textsf{My\ Projects}}$$
 			<a href="https://github.com/sidstuff/learnasm"><img src="learnasm.jpg"><br><br><b>learnasm</b></a><br><br>Learn x86-64 Assembly building a Brainfuck interpreter.<br><br>
 		</td>
 	</tr>
+	<tr>
+		<td align="center" width="50%">
+			<a href="https://github.com/sidstuff/cutoffs"><img src="cutoffs.png"><br><br><b>bf-repl</b></a><br><br>Spam-resistant crowdsourcing of accurate cut-off scores.<br><br>
+		</td>
+		<td align="center" width="50%">
+			<a href="https://github.com/sidstuff/robot"><img src="robot.png"><br><br><b>learnasm</b></a><br><br>A PCB for an obstacle avoiding robot.<br><br>
+		</td>
+	</tr>
 </table>
 
 <br><div align="center"><a href="https://creativecommons.org/licenses/by/4.0/legalcode.txt"><img src="cc-by.png" height="40px"><br>CC BY 4.0</a>
