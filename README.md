@@ -24,7 +24,7 @@ $${\huge\textsf{My\ Projects}}$$
 			<a href="https://github.com/sidstuff/cutoffs"><img src="cutoffs.png"><br><br><b>cutoffs</b></a><br><br>Spam-resistant crowdsourcing of accurate cut-off scores.<br><br>
 		</td>
 		<td align="center" width="50%">
-			<a href="https://github.com/sidstuff/robot"><img src="robot.png"><br><br><b>robot</b></a><br><br>A PCB for an obstacle avoiding robot.<br><br>
+			<a href="https://github.com/sidstuff/robot"><img src="robot.png"><br><br><b>robot</b></a><br><br>A KiCAD PCB for an obstacle avoiding robot.<br><br>
 		</td>
 	</tr>
 </table>
