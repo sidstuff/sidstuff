@@ -27,6 +27,14 @@ $${\huge\textsf{My\ Projects}}$$
 			<a href="https://github.com/sidstuff/robot"><img src="robot.png"><br><br><b>robot</b></a><br><br>A KiCAD PCB for an obstacle avoiding robot.<br><br>
 		</td>
 	</tr>
+	<tr>
+		<td align="center" width="50%">
+			<a href="https://github.com/sidstuff/crypto"><img src="crypto.png"><br><br><b>crypto</b></a><br><br>OpenSSL cryptography tutorial + simple RSA implementation in C.<br><br>
+		</td>
+		<td align="center" width="50%">
+			<a href="https://github.com/sidstuff/gentoo"><img src="gentoo.png"><br><br><b>gentoo</b></a><br><br>Gentoo install script<BR>[COMING SOON]<br><br>
+		</td>
+	</tr>
 </table>
 
 <br><div align="center"><a href="https://creativecommons.org/licenses/by/4.0/legalcode.txt"><img src="cc-by.png" height="40px"><br>CC BY 4.0</a>
