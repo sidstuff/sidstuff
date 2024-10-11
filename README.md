@@ -5,34 +5,34 @@ $${\huge\textsf{My\ Projects}}$$
 <table>
 	<tr>
 		<td align="center" width="50%">
-			<a href="https://github.com/sidstuff/orbital"><img src="orbital.png"><br><br><b>orbital</b></a><br><br>Make interactive scatterplots of atomic orbitals and animate them.<br><br>
+			<a href="https://github.com/sidstuff/orbital"><img src="orbital.png" width="100%"><br><br><b>orbital</b></a><br><br>Make interactive scatterplots of atomic orbitals and animate them.<br><br>
 		</td>
 		<td align="center" width="50%">
-			<a href="https://github.com/sidstuff/moire"><img src="moire.png"><br><br><b>moire</b></a><br><br>Using the Python Imaging Library (PIL, now Pillow) to generate colors and animate Moiré patterns.<br><br>
-		</td>
-	</tr>
-	<tr>
-		<td align="center" width="50%">
-			<a href="https://github.com/sidstuff/bf-repl"><img src="bf-repl.png"><br><br><b>bf-repl</b></a><br><br>A Brainfuck interpreter with a REPL, written in x86-64 NASM assembly for Linux.<br><br>
-		</td>
-		<td align="center" width="50%">
-			<a href="https://github.com/sidstuff/learnasm"><img src="learnasm.jpg"><br><br><b>learnasm</b></a><br><br>Learn x86-64 Assembly building a Brainfuck interpreter.<br><br>
+			<a href="https://github.com/sidstuff/moire"><img src="moire.png" width="100%"><br><br><b>moire</b></a><br><br>Using the Python Imaging Library (PIL, now Pillow) to generate colors and animate Moiré patterns.<br><br>
 		</td>
 	</tr>
 	<tr>
 		<td align="center" width="50%">
-			<a href="https://github.com/sidstuff/cutoffs"><img src="cutoffs.png"><br><br><b>cutoffs</b></a><br><br>Spam-resistant crowdsourcing of accurate cut-off scores.<br><br>
+			<a href="https://github.com/sidstuff/bf-repl"><img src="bf-repl.png" width="100%"><br><br><b>bf-repl</b></a><br><br>A Brainfuck interpreter with a REPL, written in x86-64 NASM assembly for Linux.<br><br>
 		</td>
 		<td align="center" width="50%">
-			<a href="https://github.com/sidstuff/robot"><img src="robot.png"><br><br><b>robot</b></a><br><br>A KiCAD PCB for an obstacle avoiding robot.<br><br>
+			<a href="https://github.com/sidstuff/learnasm"><img src="learnasm.jpg" width="100%"><br><br><b>learnasm</b></a><br><br>Learn x86-64 Assembly building a Brainfuck interpreter.<br><br>
 		</td>
 	</tr>
 	<tr>
 		<td align="center" width="50%">
-			<a href="https://github.com/sidstuff/crypto"><img src="crypto.png"><br><br><b>crypto</b></a><br><br>OpenSSL cryptography tutorial +<br>simple RSA implementation in C.<br><br>
+			<a href="https://github.com/sidstuff/cutoffs"><img src="cutoffs.png" width="100%"><br><br><b>cutoffs</b></a><br><br>Spam-resistant crowdsourcing of accurate cut-off scores.<br><br>
 		</td>
 		<td align="center" width="50%">
-			<a href="https://github.com/sidstuff/gentoo"><img src="gentoo.svg"><br><br><b>gentoo</b></a><br><br>Gentoo install script.<br>[COMING SOON]<br><br>
+			<a href="https://github.com/sidstuff/robot"><img src="robot.png" width="100%"><br><br><b>robot</b></a><br><br>A KiCAD PCB for an obstacle avoiding robot.<br><br>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" width="50%">
+			<a href="https://github.com/sidstuff/crypto"><img src="crypto.png" width="100%"><br><br><b>crypto</b></a><br><br>OpenSSL cryptography tutorial +<br>simple RSA implementation in C.<br><br>
+		</td>
+		<td align="center" width="50%">
+			<a href="https://github.com/sidstuff/gentoo"><img src="gentoo.svg" width="100%"><br><br><b>gentoo</b></a><br><br>Gentoo install script.<br>[COMING SOON]<br><br>
 		</td>
 	</tr>
 </table>
