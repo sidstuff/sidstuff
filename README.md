@@ -32,7 +32,7 @@ $${\huge\textsf{My\ Projects}}$$
 			<a href="https://github.com/sidstuff/crypto"><img src="crypto.png" width="100%"><br><br><b>crypto</b></a><br><br>OpenSSL cryptography tutorial +<br>simple RSA implementation in C.<br><br>
 		</td>
 		<td align="center" width="50%">
-			<a href="https://github.com/sidstuff/gentoo"><img src="gentoo.svg" width="100%"><br><br><b>gentoo</b></a><br><br>Gentoo install script (disk encryption + secure boot)<br><br>
+			<a href="https://github.com/sidstuff/gentoo"><img src="gentoo.png" width="100%"><br><br><b>gentoo</b></a><br><br>Gentoo install script (disk encryption + secure boot)<br><br>
 		</td>
 	</tr>
 </table>
