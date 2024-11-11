@@ -36,6 +36,17 @@ $${\huge\textsf{My\ Projects}}$$
 		</td>
 	</tr>
 </table>
+<h2>In Progress</h2>
+<table>
+	<tr>
+		<td align="center" width="50%">
+			<a href="https://github.com/sidstuff/silhouette"><img src="silhouette.png" width="100%"><br><br><b>silhouette</b></a><br><br>Extract nested DXF from silhouettes.<br><br>
+		</td>
+		<td align="center" width="50%">
+			<a href="https://github.com/sidstuff/nixos"><img src="nixos.png" width="100%"><br><br><b>nixos</b></a><br><br>My NixOS configuration.<br><br>
+		</td>
+	</tr>
+</table>
 
 <br><div align="center"><a href="https://creativecommons.org/licenses/by/4.0/legalcode.txt"><img src="cc-by.png" height="40px"><br>CC BY 4.0</a>
 
