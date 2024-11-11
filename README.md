@@ -40,7 +40,7 @@ $${\huge\textsf{My\ Projects}}$$
 <table>
 	<tr>
 		<td align="center" width="50%">
-			<a href="https://github.com/sidstuff/silhouette"><img src="silhouette.png" width="100%"><br><br><b>silhouette</b></a><br><br>Extract nested DXF from silhouettes. Uses SVGnest.<br><br>
+			<a href="https://github.com/sidstuff/silhouette"><img src="silhouette.png" width="100%"><br><br><b>silhouette</b></a><br><br>Extract nested DXF from silhouettes.<br>Uses SVGnest.<br><br>
 		</td>
 		<td align="center" width="50%">
 			<a href="https://github.com/sidstuff/nixos"><img src="nixos.png" width="100%"><br><br><b>nixos</b></a><br><br>My NixOS configuration.<br><br>
