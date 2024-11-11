@@ -36,7 +36,7 @@ $${\huge\textsf{My\ Projects}}$$
 		</td>
 	</tr>
 </table>
-<h2>In Progress</h2>
+<h3 align="center">In Progress</h3>
 <table>
 	<tr>
 		<td align="center" width="50%">
