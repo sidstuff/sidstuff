@@ -11,6 +11,6 @@ while balance > 0:
         print("Success!")
     else:
         print("Fail :(")
-    balance -= (1-2*flip) * amount
+    balance += (2*flip-1) * amount
     print("Balance: "+str(balance))
 
