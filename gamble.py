@@ -8,9 +8,9 @@ while balance > 0:
     amount = int(input("Gamble how many INR: "))
     flip = getrandbits(1)
     if flip:
-        print("Fail :(")
+        print("Success!")
     else:
-        print("Success! ")
-    balance += (1-2*flip) * amount
+        print("Fail :(")
+    balance -= (1-2*flip) * amount
     print("Balance: "+str(balance))
 
