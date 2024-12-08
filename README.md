@@ -1,6 +1,8 @@
 $${\huge\textsf{My\ Projects}}$$
 
-<br><div align="center"><a href="https://www.mit.edu/~amini/LICENSE.md"><img src="mit.png" height="40px"></a></div>
+<hr>
+
+<div align="center"><a href="https://www.mit.edu/~amini/LICENSE.md"><img src="mit.png" height="40px"></a></div>
 
 <table>
 	<tr>
@@ -48,11 +50,15 @@ $${\huge\textsf{My\ Projects}}$$
 	</tr>
 </table>
 
-<br><div align="center"><a href="https://creativecommons.org/licenses/by/4.0/legalcode.txt"><img src="cc-by.png" height="40px"><br>CC BY 4.0</a>
+<hr>
+
+<div align="center"><a href="https://creativecommons.org/licenses/by/4.0/legalcode.txt"><img src="cc-by.png" height="40px"><br>CC BY 4.0</a>
 
 <table><tr><td align="center">
 	<a href="https://github.com/libertarian-faq"><img src="flag.png"><br><br><b>@libertarian-faq</b></a><br><br>Explanation and watertight defense of libertarianism for libertarians as well as non-libertarians.<br><br>
-</td></tr></table><br>
+</td></tr></table>
+
+<hr>
 
 <h1><a href="https://github.com/ourbigbook/ourbigbook/commits?author=sidstuff">Contributed</a> to <a href="https://github.com/ourbigbook/ourbigbook"><img src="ourbigbook.svg" height="25px"> OurBigBook</a> <a href="https://www.gnu.org/licenses/agpl-3.0.txt"><img src="agpl3.png" height="25px"></a></h1>
 <a href="https://ourbigbook.com">ourbigbook.com</a> source code + a compatible local CLI static wiki generator and markup language to write complex structured wikis/books/blogs with reference implementation in JavaScript.
