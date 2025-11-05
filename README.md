@@ -29,10 +29,10 @@
 	</tr>
 	<tr align="center">
 		<td align="center" width="50%">
-			<a href="https://github.com/sidstuff/setup"><img src="setup.png" width="100%"></a><br><br><b>Aug – <a href="https://github.com/sidstuff/setup">setup</a></b><br><br>My Debian/Ubuntu setup script.<br><br><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"> <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"><br><br>
+			<a href="https://github.com/sidstuff/setup"><img src="setup.png" width="100%"></a><br><br><b>Oct – <a href="https://github.com/sidstuff/setup">setup</a></b><br><br>My Debian/Ubuntu setup script.<br><br><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"> <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"><br><br>
 		</td>
 		<td align="center" width="50%">
-			<a href="https://github.com/sidstuff/sflc-boot"><img src="shufflecake.png" width="100%"></a><br><br><b>Sep – <a href="https://github.com/sidstuff/sflc-boot">sflc-boot</a></b><br><br>A custom initramfs to boot into a hidden OS on a Shufflecake-formatted partition.<br><br><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"><br><br>
+			<a href="https://github.com/sidstuff/sflc-boot"><img src="shufflecake.png" width="100%"></a><br><br><b>Nov – <a href="https://github.com/sidstuff/sflc-boot">sflc-boot</a></b><br><br>A custom initramfs to boot into a hidden OS on a Shufflecake-formatted partition.<br><br><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"><br><br>
 		</td>
 	</tr>
 </table>
