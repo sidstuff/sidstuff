@@ -1,9 +1,7 @@
-<div align="center"><img src="sidharth_sankar_2.png" height="40px"></a></div>
-
+<div align="center">
+<img src="sidharth_sankar_2.png" height="40px">
 <hr>
-
-<div align="center"><h2>Projects<br><br><a href="https://www.mit.edu/~amini/LICENSE.md"><img src="mit.png" height="40px"></a></h2>
-
+<h2>Projects</h2>
 <h3>2025</h3>
 <table>
 	<tr>
@@ -38,7 +36,6 @@
 		</td>
 	</tr>
 </table>
-
 <h3>2024</h3>
 <table>
 	<tr>
@@ -77,11 +74,7 @@
 <hr>
 <h1><a href="https://github.com/ourbigbook/ourbigbook/commits?author=sidstuff">Contributed</a> to <a href="https://github.com/ourbigbook/ourbigbook"><img src="ourbigbook.svg" height="25px"> OurBigBook</a> <a href="https://www.gnu.org/licenses/agpl-3.0.txt"><img src="agpl3.png" height="25px"></a></h1>
 <a href="https://ourbigbook.com">ourbigbook.com</a> source code + a compatible local CLI static wiki generator and markup language to write complex structured wikis/books/blogs with reference implementation in JavaScript.
-</div>
-
 <hr>
-
-<div align="center">
 <h2>Bonus project<br>(not by me)</h2>
 <h3><a href="https://github.com/sidstuff/torch">Torch</a></h3>
 <a href="https://www.mit.edu/~amini/LICENSE.md"><img src="mit.png" height="32px"></a><br><br>
